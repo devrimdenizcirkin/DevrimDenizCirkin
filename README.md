@@ -32,7 +32,7 @@ style="border-radius:50%; box-shadow:0 O
 
 ### 🖥 Framework & Kütüphaneler
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,reactnative,flutter,nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,flutter,nodejs,express" height="40"/>
 </p>
 
 ### 🗄 Veritabanları
