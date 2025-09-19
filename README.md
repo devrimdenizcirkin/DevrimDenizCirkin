@@ -50,7 +50,6 @@ style="border-radius:50%; box-shadow:0 O
 ## 📊 GitHub İstatistikleri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devrimdenizcirkin&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrimdenizcirkin&theme=radical" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrimdenizcirkin&layout=compact&theme=radical" height="165"/>
